@@ -1,5 +1,3 @@
-# Grajourn
+# Projects
 
-##editing file
-
-it is a markdown file in this repository
+A collection of my works
